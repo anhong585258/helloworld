@@ -1,0 +1,16 @@
+//
+//  MVCPrefixHeader.pch
+//  MVCframework
+//
+//  Created by zhangx on 2017/7/7.
+//  Copyright © 2017年 zhangx. All rights reserved.
+//
+
+#ifndef MVCPrefixHeader_pch
+#define MVCPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#endif /* MVCPrefixHeader_pch */
